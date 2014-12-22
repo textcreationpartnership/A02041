@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The .xxv. orders of fooles.Granger, Timothy.1570Approx. 9 KB of XML-encoded text transcribed from 1 
+
+1. ¶ The, xxv, orders of Fooles,
+
 #####Back#####
-The .xxv. orders of fooles.Granger, Timothy.1570Approx. 9 KB of XML-encoded text transcribed from 1 
+❀ Imprinted at London by Alexander Lacie, for Henrie Kyrkham, dwellyng at the signe of the blacke Bo
 **Types of content**
 
   * There are 150 **verse** lines!
